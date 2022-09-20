@@ -1,0 +1,18 @@
+.img {
+    height: 500px;
+    width: 700px;
+}
+
+.page {
+    background-color: #86c2b3;
+}
+
+.nav {
+    text-decoration: none;
+    color: #8305b5;
+}
+
+.link-text {
+    color: black;
+    text-decoration: none;
+}
